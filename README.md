@@ -1,4 +1,4 @@
-## Hi there, I'm [Daniel!](https://github.com/dannymonge) �
+## Hi there, I'm [Daniel!](https://github.com/dannymonge) 👋 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-monge-a93952221/)](https://www.linkedin.com/in/daniel-monge-a93952221/)
 [![Gmail Badge](https://img.shields.io/badge/-danny.monge.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danny.monge.dev@gmail.com)](mailto:danny.monge.dev@gmail.com) 
