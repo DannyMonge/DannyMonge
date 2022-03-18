@@ -19,7 +19,7 @@ Passionate software engineer with a track record of delivering solution architec
   ![Web API](https://img.shields.io/badge/-Web_API-007ACC?style=flat-square&logo=Web-API)
   ![Azure](https://img.shields.io/badge/-Azure-007ACC?style=flat-square&logo=Azure)
  <br>
-  ![Ruby](https://img.shields.io/badge/ruby-yellow?style=flat-square&logo=ruby)
+  ![Ruby](https://img.shields.io/badge/ruby-red?style=flat-square&logo=ruby)
   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-black?style=flat-square&logo=Ruby_on_Rails)
  <br>
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
