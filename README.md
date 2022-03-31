@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-monge-a93952221/)](https://www.linkedin.com/in/daniel-monge-a93952221/)
 [![Gmail Badge](https://img.shields.io/badge/-danny.monge.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danny.monge.dev@gmail.com)](mailto:danny.monge.dev@gmail.com) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-c14438?style=flat-square&logo=Medium&logoColor=blacke&link=https://medium.com/@danny.monge)](https://medium.com/@danny.monge) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-Gray?style=flat-square&logo=Medium&logoColor=blacke&link=https://medium.com/@danny.monge)](https://medium.com/@danny.monge) 
 
 Passionate software engineer with a track record of delivering solution architecture, quality, extendable, scalable, and functional code. Enthusiastic about collaborating, mentoring, providing technical leadership, and building large-scale back-end systems & data warehouses that effectively and elegantly address business needs.
 
