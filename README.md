@@ -6,7 +6,7 @@
 
 Passionate software engineer with a track record of delivering solution architecture, quality, extendable, scalable, and functional code. Enthusiastic about collaborating, mentoring, providing technical leadership, and building large-scale back-end systems & data warehouses that effectively and elegantly address business needs.
 
-🌱 Have industrial and research experience in JS(React, Angular, Node.js, Express), PHP(Laravel, Codeignitor, Drupal), C#/.NET, REST API and Microservices framework.
+🌱 Have industrial and research experience in JS(React, Angular, Vue, Node.js, Express), PHP(Laravel), Python(Django), Java(Spring Boot, MVC), C#/.NET, REST API and Microservices framework.
 
 
 ## Languages and Tools:
