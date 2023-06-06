@@ -4,32 +4,15 @@
 [![Gmail Badge](https://img.shields.io/badge/-daniel.monge.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.monge.dev@gmail.com)](mailto:daniel.monge.dev@gmail.com) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-Grey?style=flat-square&logo=Medium&logoColor=blacke&link=https://medium.com/@danny.monge)](https://medium.com/@danny.monge) 
 
-Passionate software engineer with a track record of delivering solution architecture, quality, extendable, scalable, and functional code. Enthusiastic about collaborating, mentoring, providing technical leadership, and building large-scale back-end systems & data warehouses that effectively and elegantly address business needs.
+I am a result and performance-driven software architect/consultant/developer with a gift for designing and implementing solutions with both performance and flexibility across the full stack.
 
-🌱 Have industrial and research experience in JS(React, Angular, Vue, Node.js, Express), PHP(Laravel), Python(Django), Java(Spring Boot, MVC), C#/.NET, REST API and Microservices framework.
+I have more than a decade years enhancing businesses through the design and implementation of practical technology solutions in a variety of industries including healthcare, finance, insurance, white-collar automation, geospatial, retail, food, ecommerce, real estate, etc.
 
+I am proficient in Agile (Scrum) software development methodology with a strong knowledge of SDLC:
+Concept & Planning ➜ Solution Architecture/Design ➜ POC(MVP) ➜ TDD ➜ QA/UAT ➜ DevOps & CI/CD ➜ Release ➜ Maintenance
 
-## Languages and Tools:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/typescript-green?style=flat-square&logo=typescript)
-  ![React JS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
- <br>
-  ![C#](https://img.shields.io/badge/-C%23-007ACC?style=flat-square&logo=c-sharp)
-  ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-563D7C?style=flat-square&logo=ASP.NET-Core)
-  ![MVC](https://img.shields.io/badge/-MVC-007ACC?style=flat-square&logo=MVC)
-  ![Web API](https://img.shields.io/badge/-Web_API-007ACC?style=flat-square&logo=Web-API)
-  ![Azure](https://img.shields.io/badge/-Azure-007ACC?style=flat-square&logo=Azure)
- <br>
-  ![Ruby](https://img.shields.io/badge/ruby-red?style=flat-square&logo=ruby)
-  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-black?style=flat-square&logo=Ruby_on_Rails)
- <br>
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
- <br>
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)   
+I am obsessed with providing our customers with solutions that are cost-effective, highly available, and secure.
+
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=dannymonge&theme=vue&hide_title=true&hide_border=true&show_icons=true&count_private=true&hide=stars,issues" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannymonge&layout=compact&theme=vue&hide_title=true&hide_border=true" >
